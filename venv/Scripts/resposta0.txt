@@ -1,0 +1,14 @@
+Maior nota: 95 (Luciana Souza)
+Menor nota: 32 (Maria Clara, Washington Luis)
+Media: 60.77
+Desvio padrao: 17.59
+Mais que a media: 7 alunos
+Histograma:
+
+Y:
+5                     
+4              *      
+3              *      
+2        *   * * *    
+1        * * * * * * *
+X: 0 1 2 3 4 5 6 7 8 9

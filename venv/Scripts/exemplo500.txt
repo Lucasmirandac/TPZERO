@@ -1,0 +1,500 @@
+Stella di Paula,76
+Eduarda Figueiredo,59
+Nicolas Lins,45
+Pedro Lucas Ferraz,50
+Maria Luiza Sampaio,66
+Brenda Vargas,80
+Emanuelly Goncalves,52
+Clarice Meneghel,54
+Caio Reymond,68
+Felipe Alvim,73
+Vitor Hugo Marques,71
+Yago Teodoro,64
+Luiz Miguel Souza,96
+Raul Guimaraes,93
+Luiz Miguel Werneck,81
+Antonio Liberato,88
+Giovanni Dolabella,21
+Ana Laura Meneghel,82
+Mirella Bueno,65
+Marcelo Torres,36
+Kamilly Monteiro,57
+Benjamin Boaventura,50
+Marina Chapelin,67
+Davi Lucas Montenegro,52
+Laura Bial,82
+Joao Vitor Fischer,72
+Emilly Liberato,26
+Pedro Miguel Bonner,84
+Kamilly Drummond,89
+Diogo Sheherazade,48
+Lucas Castiel,43
+Augusto Vasconcelos,60
+Clara Barros,52
+Enrico Carvalho,100
+Henrique Annenberg,54
+Ana Luiza Cavalcante,6
+Isabel Sampaio,37
+Livia Fischer,51
+Juliana Abravanel,75
+Lorena Albuquerque,89
+Joao Guilherme Assuncao,47
+Emilly Muniz,32
+Lara Steves,51
+Beatriz Vargas,77
+Ana Carolina Bonner,46
+Matheus Dieckmann,63
+Eduardo Moscovis,38
+Henrique Novaes,97
+Otavio Rios,34
+Valentina Timberg,74
+Maria Sophia Prado,100
+Joao Miguel Oliveira,35
+Miguel Carvalho,63
+Nathan Fontenelle,38
+Fernando Goes,50
+Isadora Moraes,40
+Levi Silva,50
+Felipe Riche,46
+Ana Luiza Carvalho,92
+Joao Guilherme Albuquerque,91
+Yuri Lins,64
+Yasmin Monteiro,91
+Guilherme Prado,74
+Maria Fernanda Schoemberger,59
+Melissa Teodoro,42
+Maria Julia Figueiredo,73
+Erick Alencar,65
+Eduarda Monteiro,89
+Luiza Prado,54
+Pietro Timberg,70
+Enzo Gabriel Menezes,69
+Iara Kannenberg,40
+Maria Julia Riche,39
+Renan Close,72
+Stella Santana,78
+Isabelly Evelyn,63
+Bernardo Alves,60
+Stella Steves,58
+Maria Clara Marinho,29
+Maria Clara Araujo,34
+Gabrielly Kannenberg,38
+Rafael Sanches,64
+Davi Lucca Guimaraes,48
+Felipe Mazzaropi,41
+Miguel Lins,71
+Matheus Drummond,52
+Melissa Lombardi,57
+Esther Santos,78
+Clarice Oliveira,66
+Clarice Sheherazade,100
+William Muniz,29
+Danilo Campos,83
+Maria Fernanda Meneghel,49
+Sarah Almeida,53
+Benício Fontenelle,65
+Lorenzo Sheherazade,39
+Carolina Resende,44
+Noah Rios,89
+Ana Laura Bial,64
+Luiz Henrique Hickmann,30
+Cecilia Senna,96
+Carolina Marques,90
+Maria Julia Giacomo,41
+Pedro Lucas Aguiar,37
+Felipe Reymond,49
+Daniel Ribeiro,18
+Beatriz Alvim,75
+Matheus Alves,78
+Isabel Kannenberg,85
+Luana Drummond,40
+Francisco Maciel,44
+Maria Julia Arantes,66
+Lavinia Moscovis,35
+Icaro Hickmann,50
+Mariana Bongiovanni,96
+Eduarda Sanches,72
+Rodrigo Schmutz,59
+Giovanna Close,52
+Bernardo Novaes,66
+Luiz Felipe Marques,65
+Samuel Campos,48
+Alexandre Torres,46
+Luana Ferraz,73
+Leticia Ferrari,63
+Joao Paulo Goes,26
+Antonella Schmutz,80
+Marcelo Castro,77
+Marina Schoemberger,76
+Rebeca Moura,51
+Lucas Riche,60
+Enrico Hickmann,23
+Maria Laura Werneck,51
+Thomas Annenberg,61
+Clarice Teodoro,95
+Lis Santos,65
+Clara Gimenez,34
+Luan Falabella,42
+Julia Maciel,51
+Joao Gabriel Meneghel,41
+Yago Cavalcante,70
+Ryan Castiel,66
+Bruna D'Avila,63
+Enrico Kannenberg,100
+Maria Julia Maldonado,68
+Henry Fontenelle,20
+Brenda Lessa,97
+Valentina Vargas,25
+Livia Schmutz,50
+Benjamin Castro,70
+Clarice Werneck,84
+Joao Lucas Carvalho,25
+Eduarda Bial,65
+Mikaela Ferraz,26
+Mikaela Aguiar,81
+Bruno Resende,54
+Fernando Abravanel,41
+Ana Beatriz Ferraz,34
+Emilly D'Avila,32
+Brenda Bittencourt,27
+Guilherme Albuquerque,42
+Heitor Guimaraes,68
+Henrique Maldonado,53
+Malu Steves,72
+Agatha Timberg,66
+Yago Lambertini,63
+Felipe Drummond,47
+Bernardo Oliveira,60
+Pedro Barros,71
+Renan di Paula,43
+Luiza Santos,77
+Giovanni Carvalho,79
+Maria Cecilia Lessa,54
+Giovanna Falabella,58
+Thiago Steves,0
+Alicia Ribeiro,73
+Bruna Bittencourt,90
+Gustavo Novaes,71
+Evellyn Hickmann,31
+Larissa Barros,87
+Joao Almeida,37
+Pietra Andrade,88
+Alicia Carvalho,14
+Joao Miguel Moura,43
+Anthony Figueiredo,82
+Pedro Rios,54
+Mirella Muller,63
+Vitor Barcelos,40
+Juliana Schoemberger,49
+Emilly Bongiovanni,69
+Joao Gabriel Barcellos,40
+Thomas Timberg,58
+Alana Resende,49
+Melissa Duarte,61
+Juan Muniz,69
+Danilo Muller,80
+Mirella Assuncao,69
+Cecilia Maciel,80
+Renan Leite,53
+Vitoria Prado,52
+Helena Menezes,47
+Joao Gabriel Aguiar,100
+Miguel Gimenez,46
+Gabriela Vasconcelos,42
+Noah Schumacher,72
+Marcelo Oliveira,48
+Milena Kannenberg,29
+Yuri Martins,77
+Caroline Bongiovanni,74
+Isabella Leite,69
+Paulo di Paula,83
+Pietro Novaes,56
+Arthur Albuquerque,32
+Joao Dantas,50
+Pietro Ferrari,32
+Gabriel Albuquerque,67
+Lis Marques,72
+Augusto Sanches,78
+Beatriz Leite,54
+Vitor Rios,32
+Maria Julia Bongiovanni,67
+Caroline Timberg,64
+Bruna Roriz,39
+Mirella Guimaraes,73
+Anthony Chapelin,62
+Ana Carolina Johnson,80
+Lavinia Riche,60
+Sarah Castiel,79
+Pedro Miguel Albuquerque,81
+Manuela Falabella,20
+Henry di Paula,74
+Emanuel Bittencourt,64
+Ana Beatriz Chapelin,47
+Antonella Mazzaropi,79
+Maria Clara Fischer,70
+Beatriz Araujo,79
+Mariana Marques,38
+Maria Sophia Lessa,100
+Isabel Falabella,55
+Davi Lucas Albuquerque,51
+Luiz Gustavo Moscovis,42
+Nicolas Bittencourt,51
+Guilherme Maldonado,62
+Gabrielly Aguiar,100
+Luan Santos,41
+Fernanda Cavalcante,73
+Caio Giacomo,67
+Emilly Novaes,21
+Ana Livia Alves,69
+Ana Clara Castro,83
+Fernanda Evelyn,44
+Maria Laura Moraes,69
+Milena Vilela,94
+Henry Albuquerque,35
+Henrique Carvalho,31
+Sarah Menezes,77
+Davi Antunes,99
+Milena Marques,56
+Alicia Barcellos,23
+Ana Bernardi,49
+Ana Carolina Figueiredo,90
+Rafaela Ganzarolli,65
+Elisa Assuncao,56
+Livia Schoemberger,36
+Gabriel Senna,85
+Henrique Moraes,59
+Rebeca Carvalho,36
+Enzo Gimenez,59
+Marcelo Carvalho,64
+Caua Bonner,84
+Leticia Annenberg,68
+Camila Moraes,65
+Joao Guilherme Liberato,65
+Ana Laura Lombardi,77
+Maria Carvalho,55
+Mirella Falabella,44
+Arthur Santana,74
+Maria Laura Roriz,75
+Barbara Araujo,63
+Yuri di Paula,82
+Pedro Miguel Roriz,57
+Pedro Andrade,69
+Emanuelly Barcelos,58
+Davi Lucas Bongiovanni,46
+Calebe Silva,59
+Augusto Torres,44
+Joao Paulo Bongiovanni,53
+Davi Goncalves,42
+Marcelo Dieckmann,86
+Felipe Martins,100
+Joao Miguel Souza,80
+Lorenzo Martins,38
+Benjamin Souza,52
+Sophia Sanches,52
+Lara Almeida,55
+Maria Cecilia Meneghel,100
+Leonardo Ribeiro,56
+Bryan Antunes,35
+Luiz Miguel Bueno,70
+Pedro Lucas Bonner,83
+Luana Fernandes,71
+Lis Duarte,84
+Amanda Sheherazade,54
+Ayla Garcia,17
+Heitor Campos,33
+Luiza Senna,91
+Anthony Lins,70
+Renan Araujo,90
+Bianca Noronha,91
+Iara Mazzaropi,70
+Clarice Alves,67
+Ana Annenberg,77
+Joao Guilherme Annenberg,68
+Fernanda Giacomo,33
+Cecilia Menezes,61
+Diego Boaventura,59
+Joao Guilherme Dantas,55
+Bruna Werneck,54
+Joao Gabriel Chapelin,64
+Rebeca Reymond,27
+Kamilly Bueno,93
+Ana Carolina Dantas,54
+Amanda Bastos,74
+Lorena Albuquerque,41
+Laura Schoemberger,61
+Davi Cavalcante,62
+Emanuelly Ganzarolli,33
+Murilo Sheherazade,35
+Guilherme di Paula,95
+Fernanda Silva,81
+Maria Laura Cavalcante,32
+Davi Luiz Sampaio,40
+Maria Sophia Santos,41
+Melissa Carvalho,28
+Ana Luiza Lombardi,45
+Leticia Albuquerque,65
+Davi Lucas Hickmann,57
+Isis Reymond,74
+Julia Ganzarolli,73
+Antonia Alencar,39
+Luana Guimaraes,91
+Fernando Alves,63
+Caio Medeiros,100
+Kamilly Guimaraes,61
+Pietra Goes,57
+Carlos Eduardo Dolabella,32
+Juan Dantas,30
+Maria Alice Goes,42
+Kaique Annenberg,37
+Enzo Menezes,81
+Lucca Bastos,73
+Malu Falabella,47
+Enzo Gabriel Garcia,61
+Beatriz Vilela,48
+Bryan Bastos,24
+Pedro Henrique Roriz,53
+Ana Clara Bial,40
+Caio Dantas,60
+Sophia Santana,63
+Lorenzo Santana,83
+Arthur Noronha,30
+Luiz Gustavo Mazzaropi,45
+Eloa Vasconcelos,76
+Cecilia Souza,83
+Maria Luiza Barcelos,77
+Elisa Sheherazade,87
+Henry Simpson,87
+Iara Fischer,61
+Eduarda Fernandes,87
+Ryan Andrade,65
+Heloisa Giacomo,52
+Pedro Lucas Muniz,59
+Nicolas Sanches,62
+Isabelly Bongiovanni,64
+Luna Bueno,73
+Laura Ribeiro,48
+Isabella Barcellos,68
+Lis Oliveira,51
+Calebe Fontenelle,79
+Otavio Fagundes,45
+Erick Dantas,40
+Eduarda Guimaraes,77
+Isabel Johnson,65
+Danilo Schmutz,53
+Joao Pedro Hickmann,46
+Alicia Barros,81
+Bernardo Andrade,70
+Sophie Moscovis,57
+Larissa Giacomo,67
+Gabriela Alves,35
+Henrique Lambertini,17
+Isaac di Paula,53
+Noah Lafaiete,79
+Enzo Gabriel Fernandes,80
+Ryan Kannenberg,59
+Eduarda Albuquerque,30
+Isabella Marinho,23
+Luan Lins,20
+Renan Bongiovanni,63
+Antonia Abravanel,33
+Luiz Felipe Torres,47
+Gustavo Lessa,71
+Noah Bastos,80
+Yasmin Gimenez,81
+Otavio Assuncao,63
+Eduardo Bernardi,54
+Breno Kannenberg,79
+Maria Julia Reymond,93
+Ana Beatriz Dolabella,16
+Clara Timberg,60
+Francisco Menezes,56
+Ana Cavalcante,56
+Pedro Riche,76
+Isis Bastos,59
+Maria Gomes,53
+Cecilia Hickmann,71
+Maria Alice Assuncao,64
+Olivia Cavalcante,29
+Fernando Ferrari,57
+Heloisa Liberato,20
+Bryan Almeida,49
+Eduarda Resende,70
+Nicole Riche,66
+Ana Julia Moraes,36
+Luan Ferrari,60
+Pedro Lucas Ferrari,54
+Esther Senna,72
+Ayla Duarte,79
+Ana Carolina Sanches,60
+Beatriz Ganzarolli,66
+Igor Araujo,42
+Vinicius Sampaio,82
+Augusto Dantas,51
+Ian Fischer,64
+Maria Fernanda Antunes,36
+Joao Guilherme Alvim,83
+Marina Marques,64
+Gabrielly Drummond,44
+Olivia Medeiros,74
+Juan D'Avila,51
+Helena Aguiar,35
+Adryan Liberato,72
+Gustavo Senna,42
+Isaac Duarte,40
+Caio Abravanel,64
+Pedro Lucas Dolabella,74
+Lorena Marques,76
+Vitor Ganzarolli,33
+Icaro Oliveira,31
+Maria Clara Evelyn,67
+Julia Alencar,84
+Luiz Gustavo Oliveira,48
+Catarina Ganzarolli,95
+Emilly Fagundes,67
+Leonardo Reymond,66
+Rodrigo Fischer,50
+Yuri Vargas,23
+Antonia Ribeiro,43
+Joao Noronha,38
+Vicente Barcellos,77
+Davi Lucas Sheherazade,63
+Enrico Novaes,47
+Paulo Ribeiro,78
+Yuri Menezes,54
+Benjamin Bial,44
+Lais Fischer,48
+Eduarda Marques,60
+Pedro Bittencourt,37
+Vitor Duarte,38
+Luiza Steves,45
+Gustavo Torres,48
+Caio di Paula,43
+Cecilia Dolabella,53
+Maria Julia Bastos,64
+Bruno Silva,86
+Pedro Henrique Barros,39
+Beatriz Oliveira,66
+Evellyn Monteiro,75
+Luiz Miguel Maciel,63
+Isis Senna,69
+Malu Montenegro,75
+Marina Roriz,36
+Benício Prado,61
+Nathan Fernandes,54
+Isabelly Figueiredo,96
+Caroline Lombardi,66
+Nicolas Ribeiro,35
+Alexia Teodoro,56
+Luiz Miguel Dantas,90
+Gustavo Silverstone,70
+Fernando Roriz,44
+Andre Bueno,72
+Sarah Leite,53
+Felipe Liberato,51
+Vinicius Albuquerque,72
+Brenda Bongiovanni,69
+Joana Araujo,17
+Bernardo Abravanel,53
+Beatriz Campos,72
+Luna Castro,70
+Lucas Roriz,98

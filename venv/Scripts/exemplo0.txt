@@ -1,0 +1,13 @@
+Alberto Martins,60
+Bruno Campos,72
+Claudia Silva,80
+Daniela Leite,55
+Erick Serra,44
+Gabriel Neves,62
+Luciana Souza,95
+Maria Clara,32
+Paulo Antonio,53
+Roberta Albuquerque,66
+Rodrigo Assuncao,78
+Tulio Matos,61
+Washington Luis,32
